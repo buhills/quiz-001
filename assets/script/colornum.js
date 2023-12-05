@@ -21,7 +21,7 @@ for (let i = 1; i <= 100; i++) {
     numCont.classList.add('odd')
   }
   if (prime(i)) {
-    numCont.classList.add('prime')
+    numCont.classList.add('fprime')
   }
   container.appendChild(numCont)
 }

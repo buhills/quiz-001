@@ -20,4 +20,4 @@ function createPortfolioSection (title, description) {
 
 // Add sections
 
-headercontainer.appendChild(createPortfolioSection('About Me', 'Am a passionate developer with a strong background in HTML and CSS. Currently pursuing innovative solutions to real-world problems'))
+headercontainer.appendChild(createPortfolioSection('Am a passionate developer with a strong background in HTML and CSS. Currently pursuing innovative solutions to real-world problems'))
